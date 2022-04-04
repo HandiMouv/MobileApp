@@ -1,5 +1,2 @@
-# MoveAndGo-Java-Android Studio
-
-# Author
-
-Jacques Polart
+# Handi'Mouv Mobile App
+Cette application mobile permet 
