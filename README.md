@@ -41,3 +41,6 @@ Ce projet s'inscrit dans la thématique de l'aide aux personnes handicapés. Il 
 * Enfin saisissez le nombre de bouton dont vous avez besoin. vous pourrez ensuite controller la valeur a envoyer pour chaque boutons.
 
 <img width="180" height="330" src="https://github.com/PolartJacques/ECE-PPE-MoveAndGo/raw/master/.github/buttons.jpg">
+
+## Auteur
+Jacques POLART
