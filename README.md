@@ -2,8 +2,8 @@
 ## table des matières
 
 - [Présentation](#goal)
-- [téléchargement et installation](#download)
-- [utiliser l'application](#use)
+- [Téléchargement et installation](#download)
+- [Utiliser l'application](#use)
 
 ## <a name="goal"></a>  Présentation
 
@@ -12,7 +12,7 @@ L'utilisateur peut selectionner le nombre de bouttons et donc de signaux de sort
 L'application peut alors s'adapter à tout individu handicapé (ou non) et simule le fait que chacun ne puisse pas effectuer les mêmes actions.<br>
 Ce projet s'inscrit dans la thématique de l'aide aux personnes handicapés. Il peut servir par exemple à tester un fauteuil roulant contrôlé par un contrôleur quelconque.
 
-## <a name="download"></a> téléchargement et installation
+## <a name="download"></a> Téléchargement et installation
 
 * téléchargez sur votre android l'apk qui se trouve dans le dossier [DOWNLOAD_APP_APK](https://github.com/PolartJacques/ECE-PPE-MoveAndGo/tree/master/DOWNLOAD_APP_APK)
 * Sur votre Android, cliquez le fichier .apk pour l'executer.
@@ -24,7 +24,7 @@ Ce projet s'inscrit dans la thématique de l'aide aux personnes handicapés. Il 
 
 > **Note** : Pour créer l'apk dans android studio, allez dans "build" et séléctionnez "Build Bundle(s) / APK(s)" puis cliquez sur "Build APK(s)".
 
-## <a name="use"></a> utiliser l'application
+## <a name="use"></a> Utiliser l'application
 
 * Au démarage de l'application, appuyez sur le bouton "entrer"
 
