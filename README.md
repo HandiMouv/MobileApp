@@ -14,7 +14,7 @@ Ce projet s'inscrit dans la thématique de l'aide aux personnes handicapés. Il 
 
 ## <a name="download"></a> Téléchargement et installation
 
-* téléchargez sur votre android l'apk qui se trouve dans le dossier [DOWNLOAD_APP_APK](https://github.com/PolartJacques/ECE-PPE-MoveAndGo/tree/master/DOWNLOAD_APP_APK)
+* téléchargez sur votre android l'apk qui se trouve dans le dossier [DOWNLOAD_APP_APK](https://github.com/HandiMouv/MobileApp/tree/main/DOWNLOAD_APP_APK)
 * Sur votre Android, cliquez le fichier .apk pour l'executer.
 * Appuyez sur "install" pour installer l'application.
 
@@ -28,19 +28,19 @@ Ce projet s'inscrit dans la thématique de l'aide aux personnes handicapés. Il 
 
 * Au démarage de l'application, appuyez sur le bouton "entrer"
 
-<img width="180" height="330" src="https://github.com/PolartJacques/ECE-PPE-MoveAndGo/raw/master/.github/home_page.jpg">
+<img width="180" height="330" src="https://github.com/HandiMouv/Presentation-Generale/blob/main/IMAGES/MobileApp/home_page.jpg">
 
-* Cliquez sur le bouton <img width="25" height="25" src="https://user-images.githubusercontent.com/71266159/151390232-fd6ead72-5359-4c4c-8f66-151f76a996b7.PNG"> pour activer le bluetooth si ce n'est pas fait. 
+* Cliquez sur le bouton <img width="25" height="25" src="https://github.com/HandiMouv/Presentation-Generale/blob/main/IMAGES/MobileApp/bt.png"> pour activer le bluetooth si ce n'est pas fait. 
 
-* Appuyez sur le bouton <img width="25" height="25" src="https://user-images.githubusercontent.com/71266159/151390791-1c620555-a89d-48a8-8973-ca2fe329f6d1.PNG"> pour rechercher des appareils.
+* Appuyez sur le bouton <img width="25" height="25" src="https://github.com/HandiMouv/Presentation-Generale/blob/main/IMAGES/MobileApp/bt%2B.png"> pour rechercher des appareils.
 
 * Connectez vous ensuite en bluetooth via la page de connection
 
-<img width="180" height="330" src="https://github.com/PolartJacques/ECE-PPE-MoveAndGo/raw/master/.github/bluetooth_connect.jpg">
+<img width="180" height="330" src="https://github.com/HandiMouv/Presentation-Generale/blob/main/IMAGES/MobileApp/bluetooth_connect.jpg">
 
 * Enfin saisissez le nombre de bouton dont vous avez besoin. vous pourrez ensuite controller la valeur a envoyer pour chaque boutons.
 
-<img width="180" height="330" src="https://github.com/PolartJacques/ECE-PPE-MoveAndGo/raw/master/.github/buttons.jpg">
+<img width="180" height="330" src="https://github.com/HandiMouv/Presentation-Generale/blob/main/IMAGES/MobileApp/buttons.jpg">
 
 ## Auteur
 Jacques POLART
