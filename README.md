@@ -28,7 +28,7 @@ Ce projet s'inscrit dans la thématique de l'aide aux personnes handicapés. Il 
 
 * Au démarage de l'application, appuyez sur le bouton "entrer"
 
-<img width="180" height="330" src="/.github/home_page.jpg">
+<img width="180" height="330" src="https://github.com/PolartJacques/ECE-PPE-MoveAndGo/raw/master/.github/home_page.jpg">
 
 * Cliquez sur le bouton <img width="25" height="25" src="https://user-images.githubusercontent.com/71266159/151390232-fd6ead72-5359-4c4c-8f66-151f76a996b7.PNG"> pour activer le bluetooth si ce n'est pas fait. 
 
@@ -36,8 +36,8 @@ Ce projet s'inscrit dans la thématique de l'aide aux personnes handicapés. Il 
 
 * Connectez vous ensuite en bluetooth via la page de connection
 
-<img width="180" height="330" src="/.github/bluetooth_connect.jpg">
+<img width="180" height="330" src="https://github.com/PolartJacques/ECE-PPE-MoveAndGo/raw/master/.github/bluetooth_connect.jpg">
 
 * Enfin saisissez le nombre de bouton dont vous avez besoin. vous pourrez ensuite controller la valeur a envoyer pour chaque boutons.
 
-<img width="180" height="330" src="/.github/buttons.jpg">
+<img width="180" height="330" src="https://github.com/PolartJacques/ECE-PPE-MoveAndGo/raw/master/.github/buttons.jpg">
