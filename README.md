@@ -1,5 +1,5 @@
 # Handi'Mouv Mobile App
-## table des matières
+## Table des matières
 
 - [Présentation](#goal)
 - [Téléchargement et installation](#download)
